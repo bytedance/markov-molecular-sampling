@@ -44,7 +44,7 @@ The experiment results we listed in the paper are obtained by averaging the outc
 ```
 @inproceedings{
     xie2021mars,
-    title={{\{}MARS{\}}: Markov Molecular Sampling for Multi-objective Drug Discovery},
+    title={MARS: Markov Molecular Sampling for Multi-objective Drug Discovery},
     author={Yutong Xie and Chence Shi and Hao Zhou and Yuwei Yang and Weinan Zhang and Yong Yu and Lei Li},
     booktitle={International Conference on Learning Representations},
     year={2021},
